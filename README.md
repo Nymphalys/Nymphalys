@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kumari Ladli</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-![1638557538217](https://user-images.githubusercontent.com/86922002/153636237-e91fb044-e4a6-45cd-8403-586b2de5d763.jpg)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nymphalys&label=Profile%20views&color=0e75b6&style=flat" alt="nymphalys" /> </p>
