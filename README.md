@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kumariladli2882@gmail.com**
 
-- ⚡ Fun fact **I have I am obsessed with flowers**
+- ⚡ Fun fact **I think I am obsessed with flowers**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
