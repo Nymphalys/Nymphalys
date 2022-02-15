@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **C++,DSA**
+- 🌱 I’m currently learning **C++ and DSA**
 
 - 📝 I regularly write articles on [https://medium.com/@Nymphalys](https://medium.com/@Nymphalys)
 
