@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **C++ and DSA**
 
-- 📝 I regularly write articles on [https://medium.com/@Nymphalys](https://medium.com/@Nymphalys)
-
 - 📫 How to reach me **kumariladli2882@gmail.com**
 
 - ⚡ Fun fact **I think I am obsessed with flowers**
