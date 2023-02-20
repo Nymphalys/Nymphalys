@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kumariladli2882@gmail.com**
 
-- ⚡ Fun fact **I think I am obsessed with flowers**
+- ⚡ Fun fact **I think I am obsessed with flowers ;)**
 
 [![@nymphalys28's Holopin board](https://holopin.me/nymphalys28)](https://holopin.io/@nymphalys28)
 
