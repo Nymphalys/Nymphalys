@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **C++ and DSA**
+- 🌱 I’m currently learning **RL and DSA**
 
 - 📫 How to reach me **kumariladli2882@gmail.com**
 
