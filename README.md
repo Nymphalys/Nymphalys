@@ -1,13 +1,13 @@
 <h1 align="center">Hi  👋 , I am Kumari Ladli </h1>
 
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Javascript developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nymphalys&label=Profile%20views&color=0e75b6&style=flat" alt="nymphalys" /> </p>
 
 
 
 
-- 🌱 I’m currently learning **RL and DSA**
+- 🌱 I’m currently an **Open Source Contributer** and **Software Engineer** at Fintech Unicorn Startup OneCard.
 
 - 📫 How to reach me **kumariladli2882@gmail.com**
 
